@@ -168,7 +168,7 @@ CORS_ALLOW_HEADERS = [
 ]
 
 
-CORS_ORIGIN_WHITELIST = ['https://course-shopkg.herokuapp.com']
+CORS_ORIGIN_WHITELIST = ['https://itschool2704.herokuapp.com/']
 
 
 # Internationalization
